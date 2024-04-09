@@ -1,0 +1,8 @@
+prefix=/home/okan/turtlebot2_ws/install_isolated
+
+Name: kindr
+Description: Description of kindr
+Version: 1.3.18
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: 

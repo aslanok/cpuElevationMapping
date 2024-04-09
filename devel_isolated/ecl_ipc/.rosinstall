@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/okan/turtlebot2_ws/devel_isolated/ecl_ipc/setup.sh

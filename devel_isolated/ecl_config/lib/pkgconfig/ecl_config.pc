@@ -1,0 +1,8 @@
+prefix=/home/okan/turtlebot2_ws/devel_isolated/ecl_config
+
+Name: ecl_config
+Description: Description of ecl_config
+Version: 0.61.6
+Cflags: -I/home/okan/turtlebot2_ws/src/Turtlebot_on_noetic/ecl_lite/ecl_config/include -I/home/okan/turtlebot2_ws/devel_isolated/ecl_config/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/ftdi_kobuki.dir/ftdi_kobuki.cpp.o  -o /home/okan/turtlebot2_ws/devel/lib/kobuki_ftdi/ftdi_kobuki  -lftdi 

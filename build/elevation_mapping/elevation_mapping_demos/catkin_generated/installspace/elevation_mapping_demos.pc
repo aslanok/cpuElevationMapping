@@ -1,0 +1,8 @@
+prefix=/home/okan/turtlebot2_ws/install
+
+Name: elevation_mapping_demos
+Description: Description of elevation_mapping_demos
+Version: 0.7.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: elevation_mapping grid_map_rviz_plugin rviz

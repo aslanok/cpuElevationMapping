@@ -1,0 +1,8 @@
+prefix=/home/okan/turtlebot2_ws/install
+
+Name: kindr_ros
+Description: Description of kindr_ros
+Version: 0.3.18
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs kindr tf
